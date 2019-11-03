@@ -1,2 +1,3 @@
----
-# defaults file for software_gdebi
+#Example on how to define software version. Dont fill this var if you want the latest version
+#version-gdebi:
+#byxussof this doesn't work yet
